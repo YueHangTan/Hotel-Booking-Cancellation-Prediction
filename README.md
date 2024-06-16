@@ -1,4 +1,4 @@
-# Adult Income Analysis
+# Hotel Booking Cancellation Prediction
 ## Mini Project 1
 
 1. The dataset is named as 'booking.csv', which was downloaded from Kaggle (https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data).
